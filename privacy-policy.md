@@ -1,6 +1,6 @@
 Privacy Policy
 
-Last updated: {{insert date}}
+Last updated: 11/14/2025
 
 This Privacy Policy explains how this application (“the App”) collects, uses, and protects information when you connect your social media accounts and use the App to schedule or publish content. This App is operated by an individual and is used solely for personal content management and automation.
 
